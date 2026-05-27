@@ -16,4 +16,5 @@ A beginner AI/ML project that recommends similar movies using content-based filt
 ## Run Project
 
 pip install -r requirements.txt
+
 streamlit run app.py
